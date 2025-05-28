@@ -3,17 +3,20 @@
     {
       "naam": "Alice",
       "leeftijd": 25,
-      "stad": "Amsterdam"
+      "stad": "Amsterdam",
+      "telefoonnummer": "0627495738"
     },
     {
       "naam": "Bob",
       "leeftijd": 32,
-      "stad": "Rotterdam"
-    },
+      "stad": "Rotterdam",
+      "telefoonnummer": "0624859375"
+          },
     {
       "naam": "Charlie",
       "leeftijd": 42,
-      "stad": "Utrecht"
+      "stad": "Utrecht",
+      "telefoonnummer": "0637295736"
     }
   ]
 }
