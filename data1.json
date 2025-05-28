@@ -1,0 +1,19 @@
+{
+  "personen": [
+    {
+      "naam": "Alice",
+      "leeftijd": 25,
+      "stad": "Amsterdam"
+    },
+    {
+      "naam": "Bob",
+      "leeftijd": 32,
+      "stad": "Rotterdam"
+    },
+    {
+      "naam": "Charlie",
+      "leeftijd": 42,
+      "stad": "Utrecht"
+    }
+  ]
+}
